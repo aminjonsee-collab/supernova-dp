@@ -1,0 +1,24 @@
+{
+  "name": "Katak — Java DP",
+  "short_name": "Katak",
+  "description": "Java'da Dynamic Programming'ni o'rganish: darslar, masalalar, vizualizator, test va work item board. Internetsiz ishlaydi.",
+  "lang": "uz",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f9fd",
+  "theme_color": "#18284a",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "shortcuts": [
+    { "name": "Board", "url": "./#/board" },
+    { "name": "Masalalar", "url": "./#/masalalar" },
+    { "name": "Kartalar", "url": "./#/kartalar" }
+  ]
+}
